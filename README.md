@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+My name is **Bagas Wahyu Andrian**.\
+I am an **informatics student** at **Multimedia Nusantara University**.\
+
 
 <!--
 **bagasandriann/bagasandriann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
