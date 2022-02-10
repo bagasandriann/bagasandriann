@@ -1,7 +1,6 @@
-# Hi there 👋
+### Hey👋, I'm **Bagas Wahyu Andrian**.
 
-My name is **Bagas Wahyu Andrian**.\
-I am an **informatics student** at **Multimedia Nusantara University**.\
+an **informatics student** at **Multimedia Nusantara University**.
 
 
 <!--
